@@ -22,6 +22,8 @@ ftpServer.on('client-error', ({connection, context, error}) => {
 ftpServer.on('STOR', (error, filename) => {
     if(error) {
         console.error("ERROR UPLOADING FILE: " + filename);
+    } else {
+        console.log("Successfully Uploaded: " + filename)
     }
 });
 
