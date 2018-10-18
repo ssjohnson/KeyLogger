@@ -1,5 +1,5 @@
 const FtpSrv = require('ftp-srv');
-const ftpServer = new FtpSrv('ftp://127.0.0.1:5555', { greeting : "Hello World" });
+const ftpServer = new FtpSrv('ftp://127.0.0.1:5555', {});
 
 ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
     console.log("Login from: " + connection.ip);
