@@ -5,8 +5,8 @@ ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
     console.log("Login from: " + connection.ip);
     console.log("Username:" + username);
     if(username == 'root' && password == 'root'){
-        console.error("resolving");
-        resolve({root: '/Users/Stephen/Desktop/project/keylogger/', cwd : '/ftpserver/root/'});
+        console.log("Resolving");
+        resolve({root: __dirname, cwd : '/ftpserver/root/'});
     } else {
         reject("Connection Refused");
     }
@@ -22,6 +22,8 @@ ftpServer.on('client-error', ({connection, context, error}) => {
 ftpServer.on('STOR', (error, filename) => {
     if(error) {
         console.error("ERROR UPLOADING FILE: " + filename);
+    } else {
+        console.log("Successfully Uploaded: " + filename)
     }
 });
 
