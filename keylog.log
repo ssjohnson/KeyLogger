@@ -1158,3 +1158,20 @@
 2018-10-18 17:05:05,527 : special key Key.backspace pressed
 2018-10-18 17:05:05,951 : special key Key.enter pressed
 >>>>>>> bbbd5019478091e6da770a980da66f6b0d87363f
+2018-10-23 17:52:12,471 : Key x pressed
+2018-10-23 17:52:13,567 : String: xx
+2018-10-23 17:52:13,628 : special key 'x' pressed
+2018-10-23 17:53:23,430 : Key f pressed
+2018-10-23 17:53:23,622 : String: ft
+2018-10-23 17:53:45,276 : special key 't' pressed
+2018-10-23 17:53:45,276 : Key c pressed
+2018-10-23 17:53:45,276 : String: cc
+2018-10-23 17:53:45,307 : special key 'c' pressed
+2018-10-23 17:53:45,307 : Key c pressed
+2018-10-23 17:53:45,432 : String: cc
+2018-10-23 17:53:46,447 : special key 'c' pressed
+2018-10-23 17:53:46,759 : special key Key.ctrl_l pressed
+2018-10-23 17:53:46,946 : Key c pressed
+2018-10-23 17:53:47,164 : String: cc
+2018-10-23 17:53:48,194 : special key 'c' pressed
+2018-10-23 17:53:50,192 : special key Key.esc pressed
