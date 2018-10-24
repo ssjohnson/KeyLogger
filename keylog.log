@@ -1330,3 +1330,12 @@
 2018-10-23 17:53:48,194 : special key 'c' pressed
 2018-10-23 17:53:50,192 : special key Key.esc pressed
 >>>>>>> 312e1575b72218fb761b95a8026bb5fbc14c43a3
+2018-10-24 00:43:24,831 : special key Key.up pressed
+2018-10-24 00:43:25,416 : special key Key.enter pressed
+2018-10-24 00:43:28,940 : Key z pressed
+2018-10-24 00:43:29,774 : String: zz
+2018-10-24 00:43:29,832 : Key z pressed
+2018-10-24 00:43:33,211 : Key z pressed
+2018-10-24 00:43:33,757 : String: zz
+2018-10-24 00:43:33,803 : Key z pressed
+2018-10-24 00:43:35,540 : special key Key.esc pressed

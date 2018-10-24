@@ -1,0 +1,1339 @@
+<<<<<<< HEAD
+2018-10-24 00:20:49,006 : Key z pressed
+2018-10-24 00:20:50,015 : String: zz
+2018-10-24 00:20:50,059 : special key 'z' pressed
+2018-10-24 00:21:27,267 : Key z pressed
+2018-10-24 00:21:27,704 : String: zz
+2018-10-24 00:21:27,729 : special key 'z' pressed
+2018-10-24 00:21:28,079 : Key z pressed
+2018-10-24 00:21:28,926 : String: zz
+2018-10-24 00:21:28,940 : special key 'z' pressed
+2018-10-24 00:21:30,469 : Key x pressed
+2018-10-24 00:21:30,745 : String: xx
+2018-10-24 00:21:30,767 : special key 'x' pressed
+2018-10-24 00:21:31,387 : Key x pressed
+2018-10-24 00:21:31,623 : String: xx
+2018-10-24 00:21:31,646 : special key 'x' pressed
+2018-10-24 00:21:46,781 : special key Key.esc pressed
+2018-10-24 00:23:07,877 : Key z pressed
+2018-10-24 00:23:08,365 : String: zz
+2018-10-24 00:23:08,455 : Key z pressed
+2018-10-24 00:23:12,216 : Key z pressed
+2018-10-24 00:23:12,565 : String: zz
+2018-10-24 00:23:13,585 : special key 'z' pressed
+2018-10-24 00:23:13,586 : Key z pressed
+2018-10-24 00:23:14,124 : String: zz
+2018-10-24 00:23:15,147 : special key 'z' pressed
+2018-10-24 00:23:15,643 : special key Key.esc pressed
+2018-10-24 00:26:56,864 : Key z pressed
+2018-10-24 00:26:57,455 : String: zz
+2018-10-24 00:26:58,475 : special key 'z' pressed
+2018-10-24 00:27:02,074 : special key Key.ctrl_l pressed
+2018-10-24 00:27:02,413 : Key c pressed
+2018-10-24 00:27:03,362 : special key Key.esc pressed
+2018-10-24 00:27:16,399 : Key z pressed
+2018-10-24 00:27:16,968 : String: zz
+2018-10-24 00:27:17,014 : special key 'z' pressed
+2018-10-24 00:27:25,118 : Key x pressed
+2018-10-24 00:27:25,406 : String: xx
+2018-10-24 00:27:25,445 : special key 'x' pressed
+2018-10-24 00:27:27,433 : special key Key.esc pressed
+2018-10-24 00:27:57,596 : Key z pressed
+2018-10-24 00:27:58,133 : String: zz
+2018-10-24 00:27:58,158 : special key 'z' pressed
+2018-10-24 00:27:59,273 : Key z pressed
+2018-10-24 00:27:59,806 : String: zz
+2018-10-24 00:27:59,842 : special key 'z' pressed
+2018-10-24 00:28:15,993 : special key Key.right pressed
+2018-10-24 00:28:17,812 : special key Key.esc pressed
+2018-10-24 00:29:45,315 : Key z pressed
+2018-10-24 00:29:45,940 : String: zz
+2018-10-24 00:29:45,967 : Key z pressed
+2018-10-24 00:29:52,492 : special key Key.esc pressed
+2018-10-24 00:30:07,478 : Key z pressed
+2018-10-24 00:30:08,021 : String: zz
+2018-10-24 00:30:08,065 : Key z pressed
+2018-10-24 00:30:14,597 : Key x pressed
+2018-10-24 00:30:14,896 : String: xx
+2018-10-24 00:30:14,926 : Key x pressed
+2018-10-24 00:30:16,049 : special key Key.esc pressed
+2018-10-24 00:33:53,381 : Key z pressed
+2018-10-24 00:33:53,862 : String: zz
+2018-10-24 00:33:53,897 : Key z pressed
+2018-10-24 00:34:05,674 : special key Key.esc pressed
+2018-10-24 00:34:47,267 : Key z pressed
+2018-10-24 00:34:47,968 : String: zz
+2018-10-24 00:34:48,993 : special key 'z' pressed
+2018-10-24 00:34:51,397 : special key Key.up pressed
+2018-10-24 00:34:53,355 : special key Key.esc pressed
+2018-10-24 00:35:06,018 : Key z pressed
+2018-10-24 00:35:06,535 : String: zz
+2018-10-24 00:35:06,615 : Key z pressed
+2018-10-24 00:35:10,072 : special key Key.esc pressed
+2018-10-24 00:35:20,239 : Key z pressed
+2018-10-24 00:35:20,786 : String: zz
+2018-10-24 00:35:20,830 : Key z pressed
+2018-10-24 00:35:23,852 : special key Key.esc pressed
+2018-10-24 00:36:13,583 : Key z pressed
+2018-10-24 00:36:14,165 : String: zz
+2018-10-24 00:36:14,246 : Key z pressed
+2018-10-24 00:36:17,526 : Key x pressed
+2018-10-24 00:36:17,853 : String: xx
+2018-10-24 00:36:17,902 : Key x pressed
+2018-10-24 00:36:26,484 : special key Key.ctrl_l pressed
+2018-10-24 00:36:26,627 : Key a pressed
+2018-10-24 00:36:27,261 : special key Key.backspace pressed
+2018-10-24 00:36:27,801 : special key Key.ctrl_l pressed
+2018-10-24 00:36:27,922 : String: as
+2018-10-24 00:36:27,981 : Key s pressed
+2018-10-24 00:36:34,329 : special key Key.ctrl_l pressed
+2018-10-24 00:36:34,509 : Key a pressed
+2018-10-24 00:36:39,275 : special key Key.backspace pressed
+2018-10-24 00:36:41,811 : special key Key.ctrl_l pressed
+2018-10-24 00:36:42,335 : special key Key.ctrl_l pressed
+2018-10-24 00:36:42,373 : special key Key.ctrl_l pressed
+2018-10-24 00:36:42,410 : special key Key.ctrl_l pressed
+2018-10-24 00:36:42,447 : special key Key.ctrl_l pressed
+2018-10-24 00:36:42,462 : String: as
+2018-10-24 00:36:42,502 : Key s pressed
+2018-10-24 00:37:02,703 : special key Key.space pressed
+2018-10-24 00:37:03,846 : Key s pressed
+2018-10-24 00:37:03,964 : String: st
+2018-10-24 00:37:04,019 : Key t pressed
+2018-10-24 00:37:04,116 : Key e pressed
+2018-10-24 00:37:04,573 : String: ep
+2018-10-24 00:37:04,629 : Key p pressed
+2018-10-24 00:37:04,811 : Key h pressed
+2018-10-24 00:37:04,918 : String: he
+2018-10-24 00:37:04,969 : Key e pressed
+2018-10-24 00:37:05,077 : Key n pressed
+2018-10-24 00:37:05,457 : String: ne
+2018-10-24 00:37:05,508 : Key e pressed
+2018-10-24 00:37:06,109 : special key Key.space pressed
+2018-10-24 00:37:06,252 : Key w pressed
+2018-10-24 00:37:06,330 : String: wa
+2018-10-24 00:37:06,376 : Key a pressed
+2018-10-24 00:37:06,472 : Key s pressed
+2018-10-24 00:37:06,654 : special key Key.space pressed
+2018-10-24 00:37:07,278 : String: sv
+2018-10-24 00:37:07,333 : Key v pressed
+2018-10-24 00:37:07,471 : Key e pressed
+2018-10-24 00:37:07,629 : String: er
+2018-10-24 00:37:07,708 : Key r pressed
+2018-10-24 00:37:08,054 : Key y pressed
+2018-10-24 00:37:08,250 : special key Key.space pressed
+2018-10-24 00:37:08,492 : String: yb
+2018-10-24 00:37:08,554 : Key b pressed
+2018-10-24 00:37:08,626 : Key u pressed
+2018-10-24 00:37:08,750 : String: us
+2018-10-24 00:37:08,811 : Key s pressed
+2018-10-24 00:37:08,990 : Key y pressed
+2018-10-24 00:37:09,211 : String: yt
+2018-10-24 00:37:09,274 : Key t pressed
+2018-10-24 00:37:09,281 : special key Key.space pressed
+2018-10-24 00:37:09,572 : special key Key.backspace pressed
+2018-10-24 00:37:09,752 : Key t pressed
+2018-10-24 00:37:10,248 : String: to
+2018-10-24 00:37:10,283 : Key o pressed
+2018-10-24 00:37:10,439 : Key d pressed
+2018-10-24 00:37:10,443 : String: do
+2018-10-24 00:37:10,484 : Key o pressed
+2018-10-24 00:37:11,180 : Key a pressed
+2018-10-24 00:37:11,774 : String: ay
+2018-10-24 00:37:11,810 : Key y pressed
+2018-10-24 00:37:12,016 : Key d pressed
+2018-10-24 00:37:12,597 : String: ds
+2018-10-24 00:37:12,639 : Key s pressed
+2018-10-24 00:37:12,836 : Key s pressed
+2018-10-24 00:37:12,894 : String: sd
+2018-10-24 00:37:12,966 : Key d pressed
+2018-10-24 00:37:14,828 : Key z pressed
+2018-10-24 00:37:16,070 : String: zs
+2018-10-24 00:37:16,128 : Key s pressed
+2018-10-24 00:37:17,662 : special key Key.esc pressed
+=======
+<<<<<<< HEAD
+2018-10-15 17:47:00,212 : Key r pressed
+2018-10-15 17:47:00,213 : String: r
+2018-10-15 17:47:00,388 : Key r pressed
+2018-10-15 17:47:00,388 : String: rr
+2018-10-15 17:47:00,564 : Key r pressed
+2018-10-15 17:47:00,564 : String: rrr
+2018-10-15 17:47:00,732 : Key r pressed
+2018-10-15 17:47:00,732 : String: rrrr
+2018-10-15 17:47:00,908 : Key r pressed
+2018-10-15 17:47:00,908 : String: rrrrr
+2018-10-15 17:47:01,060 : Key r pressed
+2018-10-15 17:47:01,060 : String: rrrrrr
+2018-10-15 17:47:01,228 : Key r pressed
+2018-10-15 17:47:01,228 : String: rrrrrrr
+2018-10-15 17:47:01,412 : Key r pressed
+2018-10-15 17:47:01,412 : String: rrrrrrrr
+2018-10-15 17:47:01,588 : Key r pressed
+2018-10-15 17:47:01,588 : String: rrrrrrrrr
+2018-10-15 17:47:01,756 : Key r pressed
+2018-10-15 17:47:01,756 : String: rrrrrrrrrr
+2018-10-15 17:47:01,916 : Key r pressed
+2018-10-15 17:47:01,916 : String: rrrrrrrrrrr
+2018-10-15 17:47:02,416 : Key r pressed
+2018-10-15 17:47:02,416 : String: rrrrrrrrrrrr
+2018-10-15 17:47:02,449 : Key r pressed
+2018-10-15 17:47:02,449 : String: rrrrrrrrrrrrr
+2018-10-15 17:47:02,482 : Key r pressed
+2018-10-15 17:47:02,482 : String: rrrrrrrrrrrrrr
+2018-10-15 17:47:02,515 : Key r pressed
+2018-10-15 17:47:02,515 : String: rrrrrrrrrrrrrrr
+2018-10-15 17:47:02,548 : Key r pressed
+2018-10-15 17:47:02,548 : String: rrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,581 : Key r pressed
+2018-10-15 17:47:02,581 : String: rrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,614 : Key r pressed
+2018-10-15 17:47:02,614 : String: rrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,647 : Key r pressed
+2018-10-15 17:47:02,647 : String: rrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,680 : Key r pressed
+2018-10-15 17:47:02,680 : String: rrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,713 : Key r pressed
+2018-10-15 17:47:02,713 : String: rrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,746 : Key r pressed
+2018-10-15 17:47:02,746 : String: rrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,779 : Key r pressed
+2018-10-15 17:47:02,779 : String: rrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,812 : Key r pressed
+2018-10-15 17:47:02,812 : String: rrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,845 : Key r pressed
+2018-10-15 17:47:02,845 : String: rrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,878 : Key r pressed
+2018-10-15 17:47:02,878 : String: rrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,911 : Key r pressed
+2018-10-15 17:47:02,911 : String: rrrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,944 : Key r pressed
+2018-10-15 17:47:02,944 : String: rrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:02,977 : Key r pressed
+2018-10-15 17:47:02,977 : String: rrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:03,010 : Key r pressed
+2018-10-15 17:47:03,010 : String: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:03,043 : Key r pressed
+2018-10-15 17:47:03,043 : String: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:03,076 : Key r pressed
+2018-10-15 17:47:03,076 : String: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:03,109 : Key r pressed
+2018-10-15 17:47:03,109 : String: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:03,142 : Key r pressed
+2018-10-15 17:47:03,142 : String: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:03,175 : Key r pressed
+2018-10-15 17:47:03,175 : String: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2018-10-15 17:47:03,748 : special key Key.esc pressed
+2018-10-15 17:49:21,188 : Key a pressed
+2018-10-15 17:49:21,688 : Key a pressed
+2018-10-15 17:49:21,721 : Key a pressed
+2018-10-15 17:49:21,754 : Key a pressed
+2018-10-15 17:49:21,787 : Key a pressed
+2018-10-15 17:49:21,820 : Key a pressed
+2018-10-15 17:49:21,853 : Key a pressed
+2018-10-15 17:49:21,886 : Key a pressed
+2018-10-15 17:49:21,919 : Key a pressed
+2018-10-15 17:49:21,952 : Key a pressed
+2018-10-15 17:49:21,985 : Key a pressed
+2018-10-15 17:49:22,018 : Key a pressed
+2018-10-15 17:49:22,051 : Key a pressed
+2018-10-15 17:49:22,084 : Key a pressed
+2018-10-15 17:49:22,117 : Key a pressed
+2018-10-15 17:49:22,150 : Key a pressed
+2018-10-15 17:49:22,183 : Key a pressed
+2018-10-15 17:49:22,216 : Key a pressed
+2018-10-15 17:49:22,249 : Key a pressed
+2018-10-15 17:49:22,282 : Key a pressed
+2018-10-15 17:49:22,315 : Key a pressed
+2018-10-15 17:49:22,348 : Key a pressed
+2018-10-15 17:49:22,381 : Key a pressed
+2018-10-15 17:49:22,414 : Key a pressed
+2018-10-15 17:49:22,447 : Key a pressed
+2018-10-15 17:49:22,480 : Key a pressed
+2018-10-15 17:49:22,513 : Key a pressed
+2018-10-15 17:49:22,546 : Key a pressed
+2018-10-15 17:49:22,579 : Key a pressed
+2018-10-15 17:49:22,612 : Key a pressed
+2018-10-15 17:49:22,645 : Key a pressed
+2018-10-15 17:49:22,678 : Key a pressed
+2018-10-15 17:49:22,711 : Key a pressed
+2018-10-15 17:49:22,744 : Key a pressed
+2018-10-15 17:49:22,777 : Key a pressed
+2018-10-15 17:49:22,810 : Key a pressed
+2018-10-15 17:49:22,843 : Key a pressed
+2018-10-15 17:49:22,876 : Key a pressed
+2018-10-15 17:49:22,909 : Key a pressed
+2018-10-15 17:49:22,942 : Key a pressed
+2018-10-15 17:49:22,975 : Key a pressed
+2018-10-15 17:49:23,008 : Key a pressed
+2018-10-15 17:49:23,041 : Key a pressed
+2018-10-15 17:49:23,074 : Key a pressed
+2018-10-15 17:49:23,107 : Key a pressed
+2018-10-15 17:49:23,140 : Key a pressed
+2018-10-15 17:49:23,173 : Key a pressed
+2018-10-15 17:49:23,206 : Key a pressed
+2018-10-15 17:49:23,239 : Key a pressed
+2018-10-15 17:49:23,272 : Key a pressed
+2018-10-15 17:49:23,305 : Key a pressed
+2018-10-15 17:49:23,338 : Key a pressed
+2018-10-15 17:49:23,371 : Key a pressed
+2018-10-15 17:49:23,404 : Key a pressed
+2018-10-15 17:49:23,437 : Key a pressed
+2018-10-15 17:49:23,470 : Key a pressed
+2018-10-15 17:49:23,503 : Key a pressed
+2018-10-15 17:49:23,536 : Key a pressed
+2018-10-15 17:49:23,569 : Key a pressed
+2018-10-15 17:49:23,602 : Key a pressed
+2018-10-15 17:49:23,635 : Key a pressed
+2018-10-15 17:49:23,668 : Key a pressed
+2018-10-15 17:49:23,701 : Key a pressed
+2018-10-15 17:49:23,734 : Key a pressed
+2018-10-15 17:49:23,767 : Key a pressed
+2018-10-15 17:49:23,800 : Key a pressed
+2018-10-15 17:49:23,833 : Key a pressed
+2018-10-15 17:49:23,866 : Key a pressed
+2018-10-15 17:49:23,899 : Key a pressed
+2018-10-15 17:49:23,932 : Key a pressed
+2018-10-15 17:49:23,965 : Key a pressed
+2018-10-15 17:49:23,998 : Key a pressed
+2018-10-15 17:49:24,031 : Key a pressed
+2018-10-15 17:49:24,064 : Key a pressed
+2018-10-15 17:49:24,097 : Key a pressed
+2018-10-15 17:49:24,130 : Key a pressed
+2018-10-15 17:49:24,163 : Key a pressed
+2018-10-15 17:49:24,196 : Key a pressed
+2018-10-15 17:49:24,229 : Key a pressed
+2018-10-15 17:49:24,262 : Key a pressed
+2018-10-15 17:49:24,295 : Key a pressed
+2018-10-15 17:49:24,328 : Key a pressed
+2018-10-15 17:49:24,361 : Key a pressed
+2018-10-15 17:49:24,394 : Key a pressed
+2018-10-15 17:49:24,427 : Key a pressed
+2018-10-15 17:49:24,460 : Key a pressed
+2018-10-15 17:49:24,493 : Key a pressed
+2018-10-15 17:49:24,526 : Key a pressed
+2018-10-15 17:49:24,559 : Key a pressed
+2018-10-15 17:49:24,592 : Key a pressed
+2018-10-15 17:49:24,625 : Key a pressed
+2018-10-15 17:49:24,658 : Key a pressed
+2018-10-15 17:49:24,691 : Key a pressed
+2018-10-15 17:49:24,724 : Key a pressed
+2018-10-15 17:49:24,757 : Key a pressed
+2018-10-15 17:49:24,790 : Key a pressed
+2018-10-15 17:49:24,823 : Key a pressed
+2018-10-15 17:49:24,856 : Key a pressed
+2018-10-15 17:49:24,889 : Key a pressed
+2018-10-15 17:49:24,922 : String: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-10-15 17:49:24,922 : Key a pressed
+2018-10-15 17:49:24,955 : Key a pressed
+2018-10-15 17:49:24,988 : Key a pressed
+2018-10-15 17:49:25,021 : Key a pressed
+2018-10-15 17:49:25,054 : Key a pressed
+2018-10-15 17:49:25,087 : Key a pressed
+2018-10-15 17:49:25,120 : Key a pressed
+2018-10-15 17:49:25,153 : Key a pressed
+2018-10-15 17:49:25,186 : Key a pressed
+2018-10-15 17:49:25,219 : Key a pressed
+2018-10-15 17:49:25,252 : Key a pressed
+2018-10-15 17:49:25,285 : Key a pressed
+2018-10-15 17:49:25,318 : Key a pressed
+2018-10-15 17:49:25,351 : Key a pressed
+2018-10-15 17:49:25,384 : Key a pressed
+2018-10-15 17:49:25,417 : Key a pressed
+2018-10-15 17:49:25,450 : Key a pressed
+2018-10-15 17:49:25,483 : Key a pressed
+2018-10-15 17:49:25,516 : Key a pressed
+2018-10-15 17:49:25,549 : Key a pressed
+2018-10-15 17:49:25,582 : Key a pressed
+2018-10-15 17:49:25,615 : Key a pressed
+2018-10-15 17:49:25,648 : Key a pressed
+2018-10-15 17:49:25,681 : Key a pressed
+2018-10-15 17:49:25,714 : Key a pressed
+2018-10-15 17:49:25,747 : Key a pressed
+2018-10-15 17:49:25,780 : Key a pressed
+2018-10-15 17:49:25,813 : Key a pressed
+2018-10-15 17:49:25,846 : Key a pressed
+2018-10-15 17:49:25,879 : Key a pressed
+2018-10-15 17:49:25,912 : Key a pressed
+2018-10-15 17:49:25,945 : Key a pressed
+2018-10-15 17:49:25,978 : Key a pressed
+2018-10-15 17:49:26,011 : Key a pressed
+2018-10-15 17:49:26,044 : Key a pressed
+2018-10-15 17:49:26,077 : Key a pressed
+2018-10-15 17:49:26,110 : Key a pressed
+2018-10-15 17:49:26,143 : Key a pressed
+2018-10-15 17:49:26,176 : Key a pressed
+2018-10-15 17:49:26,209 : Key a pressed
+2018-10-15 17:49:26,242 : Key a pressed
+2018-10-15 17:49:26,275 : Key a pressed
+2018-10-15 17:49:26,308 : Key a pressed
+2018-10-15 17:49:26,341 : Key a pressed
+2018-10-15 17:49:26,374 : Key a pressed
+2018-10-15 17:49:26,407 : Key a pressed
+2018-10-15 17:49:26,440 : Key a pressed
+2018-10-15 17:49:26,473 : Key a pressed
+2018-10-15 17:49:26,506 : Key a pressed
+2018-10-15 17:49:26,539 : Key a pressed
+2018-10-15 17:49:26,572 : Key a pressed
+2018-10-15 17:49:26,605 : Key a pressed
+2018-10-15 17:49:26,638 : Key a pressed
+2018-10-15 17:49:26,671 : Key a pressed
+2018-10-15 17:49:26,704 : Key a pressed
+2018-10-15 17:49:26,737 : Key a pressed
+2018-10-15 17:49:26,770 : Key a pressed
+2018-10-15 17:49:26,803 : Key a pressed
+2018-10-15 17:49:26,836 : Key a pressed
+2018-10-15 17:49:26,869 : Key a pressed
+2018-10-15 17:49:26,902 : Key a pressed
+2018-10-15 17:49:26,935 : Key a pressed
+2018-10-15 17:49:26,968 : Key a pressed
+2018-10-15 17:49:27,001 : Key a pressed
+2018-10-15 17:49:27,034 : Key a pressed
+2018-10-15 17:49:27,067 : Key a pressed
+2018-10-15 17:49:27,100 : Key a pressed
+2018-10-15 17:49:27,133 : Key a pressed
+2018-10-15 17:49:27,166 : Key a pressed
+2018-10-15 17:49:27,199 : Key a pressed
+2018-10-15 17:49:27,232 : Key a pressed
+2018-10-15 17:49:27,265 : Key a pressed
+2018-10-15 17:49:27,298 : Key a pressed
+2018-10-15 17:49:27,331 : Key a pressed
+2018-10-15 17:49:27,364 : Key a pressed
+2018-10-15 17:49:27,397 : Key a pressed
+2018-10-15 17:49:27,430 : Key a pressed
+2018-10-15 17:49:27,463 : Key a pressed
+2018-10-15 17:49:27,496 : Key a pressed
+2018-10-15 17:49:27,529 : Key a pressed
+2018-10-15 17:49:27,562 : Key a pressed
+2018-10-15 17:49:27,595 : Key a pressed
+2018-10-15 17:49:27,628 : Key a pressed
+2018-10-15 17:49:27,661 : Key a pressed
+2018-10-15 17:49:27,694 : Key a pressed
+2018-10-15 17:49:27,727 : Key a pressed
+2018-10-15 17:49:27,760 : Key a pressed
+2018-10-15 17:49:27,793 : Key a pressed
+2018-10-15 17:49:27,826 : Key a pressed
+2018-10-15 17:49:27,859 : Key a pressed
+2018-10-15 17:49:27,892 : Key a pressed
+2018-10-15 17:49:27,925 : Key a pressed
+2018-10-15 17:49:27,958 : Key a pressed
+2018-10-15 17:49:27,991 : Key a pressed
+2018-10-15 17:49:28,024 : Key a pressed
+2018-10-15 17:49:28,057 : Key a pressed
+2018-10-15 17:49:28,090 : Key a pressed
+2018-10-15 17:49:28,123 : Key a pressed
+2018-10-15 17:49:28,156 : Key a pressed
+2018-10-15 17:49:28,189 : Key a pressed
+2018-10-15 17:49:28,222 : String: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-10-15 17:49:28,222 : Key a pressed
+2018-10-15 17:49:28,255 : Key a pressed
+2018-10-15 17:49:28,288 : Key a pressed
+2018-10-15 17:49:28,321 : Key a pressed
+2018-10-15 17:49:28,354 : Key a pressed
+2018-10-15 17:49:28,387 : Key a pressed
+2018-10-15 17:49:28,420 : Key a pressed
+2018-10-15 17:49:28,453 : Key a pressed
+2018-10-15 17:49:28,486 : Key a pressed
+2018-10-15 17:49:28,519 : Key a pressed
+2018-10-15 17:49:28,552 : Key a pressed
+2018-10-15 17:49:28,585 : Key a pressed
+2018-10-15 17:49:28,618 : Key a pressed
+2018-10-15 17:49:28,651 : Key a pressed
+2018-10-15 17:49:28,684 : Key a pressed
+2018-10-15 17:49:28,717 : Key a pressed
+2018-10-15 17:49:28,750 : Key a pressed
+2018-10-15 17:49:28,783 : Key a pressed
+2018-10-15 17:49:28,816 : Key a pressed
+2018-10-15 17:49:28,849 : Key a pressed
+2018-10-15 17:49:28,882 : Key a pressed
+2018-10-15 17:49:28,915 : Key a pressed
+2018-10-15 17:49:28,948 : Key a pressed
+2018-10-15 17:49:28,981 : Key a pressed
+2018-10-15 17:49:29,014 : Key a pressed
+2018-10-15 17:49:29,047 : Key a pressed
+2018-10-15 17:49:29,080 : Key a pressed
+2018-10-15 17:49:29,113 : Key a pressed
+2018-10-15 17:49:29,146 : Key a pressed
+2018-10-15 17:49:29,179 : Key a pressed
+2018-10-15 17:49:29,212 : Key a pressed
+2018-10-15 17:49:29,245 : Key a pressed
+2018-10-15 17:49:29,278 : Key a pressed
+2018-10-15 17:49:29,311 : Key a pressed
+2018-10-15 17:49:29,344 : Key a pressed
+2018-10-15 17:49:29,377 : Key a pressed
+2018-10-15 17:49:29,410 : Key a pressed
+2018-10-15 17:49:29,443 : Key a pressed
+2018-10-15 17:49:29,476 : Key a pressed
+2018-10-15 17:49:29,509 : Key a pressed
+2018-10-15 17:49:29,542 : Key a pressed
+2018-10-15 17:49:29,575 : Key a pressed
+2018-10-15 17:49:29,608 : Key a pressed
+2018-10-15 17:49:29,641 : Key a pressed
+2018-10-15 17:49:29,674 : Key a pressed
+2018-10-15 17:49:29,707 : Key a pressed
+2018-10-15 17:49:29,740 : Key a pressed
+2018-10-15 17:49:29,773 : Key a pressed
+2018-10-15 17:49:29,806 : Key a pressed
+2018-10-15 17:49:29,839 : Key a pressed
+2018-10-15 17:49:29,872 : Key a pressed
+2018-10-15 17:49:29,905 : Key a pressed
+2018-10-15 17:49:29,938 : Key a pressed
+2018-10-15 17:49:29,971 : Key a pressed
+2018-10-15 17:49:30,004 : Key a pressed
+2018-10-15 17:49:30,037 : Key a pressed
+2018-10-15 17:49:30,070 : Key a pressed
+2018-10-15 17:49:30,103 : Key a pressed
+2018-10-15 17:49:30,136 : Key a pressed
+2018-10-15 17:49:30,169 : Key a pressed
+2018-10-15 17:49:30,202 : Key a pressed
+2018-10-15 17:49:30,235 : Key a pressed
+2018-10-15 17:49:30,268 : Key a pressed
+2018-10-15 17:49:30,301 : Key a pressed
+2018-10-15 17:49:30,334 : Key a pressed
+2018-10-15 17:49:30,367 : Key a pressed
+2018-10-15 17:49:30,400 : Key a pressed
+2018-10-15 17:49:30,433 : Key a pressed
+2018-10-15 17:49:30,466 : Key a pressed
+2018-10-15 17:49:30,499 : Key a pressed
+2018-10-15 17:49:30,532 : Key a pressed
+2018-10-15 17:49:30,565 : Key a pressed
+2018-10-15 17:49:30,598 : Key a pressed
+2018-10-15 17:49:30,631 : Key a pressed
+2018-10-15 17:49:30,664 : Key a pressed
+2018-10-15 17:49:30,697 : Key a pressed
+2018-10-15 17:49:30,730 : Key a pressed
+2018-10-15 17:49:30,763 : Key a pressed
+2018-10-15 17:49:30,796 : Key a pressed
+2018-10-15 17:49:30,829 : Key a pressed
+2018-10-15 17:49:30,862 : Key a pressed
+2018-10-15 17:49:30,895 : Key a pressed
+2018-10-15 17:49:30,928 : Key a pressed
+2018-10-15 17:49:30,961 : Key a pressed
+2018-10-15 17:49:30,994 : Key a pressed
+2018-10-15 17:49:31,027 : Key a pressed
+2018-10-15 17:49:31,060 : Key a pressed
+2018-10-15 17:49:31,093 : Key a pressed
+2018-10-15 17:49:31,126 : Key a pressed
+2018-10-15 17:49:31,159 : Key a pressed
+2018-10-15 17:49:31,192 : Key a pressed
+2018-10-15 17:49:31,225 : Key a pressed
+2018-10-15 17:49:31,258 : Key a pressed
+2018-10-15 17:49:31,291 : Key a pressed
+2018-10-15 17:49:31,324 : Key a pressed
+2018-10-15 17:49:31,357 : Key a pressed
+2018-10-15 17:49:31,390 : Key a pressed
+2018-10-15 17:49:31,423 : Key a pressed
+2018-10-15 17:49:31,456 : Key a pressed
+2018-10-15 17:49:31,489 : Key a pressed
+2018-10-15 17:49:31,522 : String: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-10-15 17:49:31,522 : Key a pressed
+2018-10-15 17:49:31,555 : Key a pressed
+2018-10-15 17:49:31,588 : Key a pressed
+2018-10-15 17:49:31,621 : Key a pressed
+2018-10-15 17:49:31,654 : Key a pressed
+2018-10-15 17:49:31,687 : Key a pressed
+2018-10-15 17:49:31,720 : Key a pressed
+2018-10-15 17:49:31,753 : Key a pressed
+2018-10-15 17:49:31,786 : Key a pressed
+2018-10-15 17:49:31,819 : Key a pressed
+2018-10-15 17:49:31,852 : Key a pressed
+2018-10-15 17:49:31,885 : Key a pressed
+2018-10-15 17:49:31,918 : Key a pressed
+2018-10-15 17:49:31,951 : Key a pressed
+2018-10-15 17:49:31,984 : Key a pressed
+2018-10-15 17:49:32,017 : Key a pressed
+2018-10-15 17:49:32,050 : Key a pressed
+2018-10-15 17:49:32,083 : Key a pressed
+2018-10-15 17:49:32,116 : Key a pressed
+2018-10-15 17:49:32,149 : Key a pressed
+2018-10-15 17:49:32,182 : Key a pressed
+2018-10-15 17:49:32,215 : Key a pressed
+2018-10-15 17:49:32,248 : Key a pressed
+2018-10-15 17:49:32,281 : Key a pressed
+2018-10-15 17:49:32,314 : Key a pressed
+2018-10-15 17:49:32,347 : Key a pressed
+2018-10-15 17:49:32,380 : Key a pressed
+2018-10-15 17:49:32,413 : Key a pressed
+2018-10-15 17:49:32,446 : Key a pressed
+2018-10-15 17:49:32,479 : Key a pressed
+2018-10-15 17:49:32,512 : Key a pressed
+2018-10-15 17:49:32,545 : Key a pressed
+2018-10-15 17:49:32,578 : Key a pressed
+2018-10-15 17:49:32,611 : Key a pressed
+2018-10-15 17:49:32,644 : Key a pressed
+2018-10-15 17:49:32,677 : Key a pressed
+2018-10-15 17:49:32,710 : Key a pressed
+2018-10-15 17:49:32,743 : Key a pressed
+2018-10-15 17:49:32,776 : Key a pressed
+2018-10-15 17:49:32,809 : Key a pressed
+2018-10-15 17:49:32,842 : Key a pressed
+2018-10-15 17:49:32,875 : Key a pressed
+2018-10-15 17:49:32,908 : Key a pressed
+2018-10-15 17:49:32,941 : Key a pressed
+2018-10-15 17:49:32,974 : Key a pressed
+2018-10-15 17:49:33,007 : Key a pressed
+2018-10-15 17:49:33,040 : Key a pressed
+2018-10-15 17:49:33,073 : Key a pressed
+2018-10-15 17:49:33,106 : Key a pressed
+2018-10-15 17:49:33,139 : Key a pressed
+2018-10-15 17:49:33,172 : Key a pressed
+2018-10-15 17:49:33,205 : Key a pressed
+2018-10-15 17:49:33,238 : Key a pressed
+2018-10-15 17:49:33,271 : Key a pressed
+2018-10-15 17:49:33,304 : Key a pressed
+2018-10-15 17:49:33,337 : Key a pressed
+2018-10-15 17:49:33,370 : Key a pressed
+2018-10-15 17:49:33,403 : Key a pressed
+2018-10-15 17:49:33,436 : Key a pressed
+2018-10-15 17:49:33,469 : Key a pressed
+2018-10-15 17:49:33,502 : Key a pressed
+2018-10-15 17:49:33,535 : Key a pressed
+2018-10-15 17:49:33,568 : Key a pressed
+2018-10-15 17:49:33,601 : Key a pressed
+2018-10-15 17:49:33,634 : Key a pressed
+2018-10-15 17:49:33,667 : Key a pressed
+2018-10-15 17:49:33,700 : Key a pressed
+2018-10-15 17:49:33,733 : Key a pressed
+2018-10-15 17:49:33,766 : Key a pressed
+2018-10-15 17:49:33,799 : Key a pressed
+2018-10-15 17:49:33,832 : Key a pressed
+2018-10-15 17:49:33,865 : Key a pressed
+2018-10-15 17:49:33,898 : Key a pressed
+2018-10-15 17:49:33,931 : Key a pressed
+2018-10-15 17:49:33,964 : Key a pressed
+2018-10-15 17:49:33,997 : Key a pressed
+2018-10-15 17:49:34,030 : Key a pressed
+2018-10-15 17:49:34,063 : Key a pressed
+2018-10-15 17:49:34,096 : Key a pressed
+2018-10-15 17:49:34,129 : Key a pressed
+2018-10-15 17:49:34,162 : Key a pressed
+2018-10-15 17:49:34,195 : Key a pressed
+2018-10-15 17:49:34,228 : Key a pressed
+2018-10-15 17:49:34,261 : Key a pressed
+2018-10-15 17:49:34,294 : Key a pressed
+2018-10-15 17:49:34,327 : Key a pressed
+2018-10-15 17:49:34,360 : Key a pressed
+2018-10-15 17:49:34,393 : Key a pressed
+2018-10-15 17:49:34,426 : Key a pressed
+2018-10-15 17:49:34,459 : Key a pressed
+2018-10-15 17:49:34,492 : Key a pressed
+2018-10-15 17:49:34,525 : Key a pressed
+2018-10-15 17:49:34,558 : Key a pressed
+2018-10-15 17:49:34,591 : Key a pressed
+2018-10-15 17:49:34,624 : Key a pressed
+2018-10-15 17:49:34,657 : Key a pressed
+2018-10-15 17:49:34,690 : Key a pressed
+2018-10-15 17:49:34,723 : Key a pressed
+2018-10-15 17:49:34,756 : Key a pressed
+2018-10-15 17:49:34,789 : Key a pressed
+2018-10-15 17:49:34,822 : String: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2018-10-15 17:49:34,822 : Key a pressed
+2018-10-15 17:49:34,855 : Key a pressed
+2018-10-15 17:49:34,888 : Key a pressed
+2018-10-15 17:49:34,921 : Key a pressed
+2018-10-15 17:49:34,954 : Key a pressed
+2018-10-15 17:49:34,987 : Key a pressed
+2018-10-15 17:49:35,020 : Key a pressed
+2018-10-15 17:49:35,053 : Key a pressed
+2018-10-15 17:49:35,086 : Key a pressed
+2018-10-15 17:49:35,119 : Key a pressed
+2018-10-15 17:49:35,152 : Key a pressed
+2018-10-15 17:49:35,185 : Key a pressed
+2018-10-15 17:49:35,218 : Key a pressed
+2018-10-15 17:49:35,251 : Key a pressed
+2018-10-15 17:49:35,284 : Key a pressed
+2018-10-15 17:49:35,317 : Key a pressed
+2018-10-15 17:49:35,350 : Key a pressed
+2018-10-15 17:49:35,383 : Key a pressed
+2018-10-15 17:49:35,416 : Key a pressed
+2018-10-15 17:49:35,449 : Key a pressed
+2018-10-15 17:49:35,482 : Key a pressed
+2018-10-15 17:49:46,620 : special key Key.esc pressed
+2018-10-15 17:50:17,108 : special key Key.space pressed
+2018-10-15 17:50:17,292 : Key a pressed
+2018-10-15 17:50:17,428 : special key Key.space pressed
+2018-10-15 17:50:17,668 : Key a pressed
+2018-10-15 17:50:17,828 : special key Key.space pressed
+2018-10-15 17:50:17,972 : Key a pressed
+2018-10-15 17:50:18,116 : special key Key.space pressed
+2018-10-15 17:50:18,244 : Key a pressed
+2018-10-15 17:50:18,380 : special key Key.space pressed
+2018-10-15 17:50:18,500 : Key a pressed
+2018-10-15 17:50:18,660 : special key Key.space pressed
+2018-10-15 17:50:18,748 : Key a pressed
+2018-10-15 17:50:18,900 : special key Key.space pressed
+2018-10-15 17:50:19,036 : Key a pressed
+2018-10-15 17:50:19,156 : special key Key.space pressed
+2018-10-15 17:50:19,276 : Key a pressed
+2018-10-15 17:50:19,396 : special key Key.space pressed
+2018-10-15 17:50:19,564 : Key a pressed
+2018-10-15 17:50:19,756 : Key g pressed
+2018-10-15 17:50:19,764 : Key b pressed
+2018-10-15 17:50:20,308 : special key Key.space pressed
+2018-10-15 17:50:20,548 : Key b pressed
+2018-10-15 17:50:20,780 : special key Key.space pressed
+2018-10-15 17:50:20,940 : Key b pressed
+2018-10-15 17:50:21,060 : Key b pressed
+2018-10-15 17:50:21,124 : special key Key.space pressed
+2018-10-15 17:50:21,276 : Key b pressed
+2018-10-15 17:50:21,588 : Key n pressed
+2018-10-15 17:50:21,844 : special key Key.space pressed
+2018-10-15 17:50:22,004 : special key Key.space pressed
+2018-10-15 17:50:22,012 : Key n pressed
+2018-10-15 17:50:22,284 : special key Key.space pressed
+2018-10-15 17:50:22,708 : Key g pressed
+2018-10-15 17:50:22,948 : Key g pressed
+2018-10-15 17:50:23,116 : special key Key.space pressed
+2018-10-15 17:50:23,364 : special key Key.space pressed
+2018-10-15 17:50:23,556 : Key r pressed
+2018-10-15 17:50:23,788 : Key r pressed
+2018-10-15 17:50:23,948 : Key r pressed
+2018-10-15 17:50:24,108 : special key Key.space pressed
+2018-10-15 17:50:24,276 : Key e pressed
+2018-10-15 17:50:24,348 : Key e pressed
+2018-10-15 17:50:24,716 : special key Key.space pressed
+2018-10-15 17:50:24,948 : special key Key.space pressed
+2018-10-15 17:50:25,100 : Key d pressed
+2018-10-15 17:50:25,364 : special key Key.space pressed
+2018-10-15 17:50:25,548 : special key Key.space pressed
+2018-10-15 17:50:25,924 : Key f pressed
+2018-10-15 17:50:26,180 : Key f pressed
+2018-10-15 17:50:26,679 : Key f pressed
+2018-10-15 17:50:26,712 : Key f pressed
+2018-10-15 17:50:26,745 : Key f pressed
+2018-10-15 17:50:26,778 : Key f pressed
+2018-10-15 17:50:26,795 : Key g pressed
+2018-10-15 17:50:26,964 : special key Key.space pressed
+2018-10-15 17:50:27,300 : Key h pressed
+2018-10-15 17:50:27,603 : Key h pressed
+2018-10-15 17:50:27,812 : Key h pressed
+2018-10-15 17:50:28,075 : Key n pressed
+2018-10-15 17:50:28,123 : special key Key.space pressed
+2018-10-15 17:50:28,339 : Key n pressed
+2018-10-15 17:50:28,804 : Key v pressed
+2018-10-15 17:50:29,012 : Key c pressed
+2018-10-15 17:50:29,021 : Key v pressed
+2018-10-15 17:50:29,236 : Key d pressed
+2018-10-15 17:50:29,756 : special key Key.space pressed
+2018-10-15 17:50:29,964 : special key Key.space pressed
+2018-10-15 17:50:30,164 : Key f pressed
+2018-10-15 17:50:30,324 : Key d pressed
+2018-10-15 17:50:30,556 : Key d pressed
+2018-10-15 17:50:30,764 : Key d pressed
+2018-10-15 17:50:31,044 : Key f pressed
+2018-10-15 17:50:31,188 : special key Key.space pressed
+2018-10-15 17:50:31,428 : Key v pressed
+2018-10-15 17:50:31,588 : Key c pressed
+2018-10-15 17:50:31,668 : Key c pressed
+2018-10-15 17:50:31,804 : Key d pressed
+2018-10-15 17:50:32,004 : Key v pressed
+2018-10-15 17:50:32,132 : Key d pressed
+2018-10-15 17:50:32,340 : Key r pressed
+2018-10-15 17:50:32,612 : Key g pressed
+2018-10-15 17:50:32,932 : Key c pressed
+2018-10-15 17:50:32,988 : special key Key.space pressed
+2018-10-15 17:50:33,428 : Key d pressed
+2018-10-15 17:50:33,436 : Key f pressed
+2018-10-15 17:50:33,580 : Key g pressed
+2018-10-15 17:50:33,740 : Key d pressed
+2018-10-15 17:50:34,076 : Key b pressed
+2018-10-15 17:50:34,276 : Key r pressed
+2018-10-15 17:50:34,308 : Key g pressed
+2018-10-15 17:50:34,524 : Key t pressed
+2018-10-15 17:50:34,708 : Key e pressed
+2018-10-15 17:50:34,764 : Key f pressed
+2018-10-15 17:50:34,900 : Key g pressed
+2018-10-15 17:50:35,300 : special key Key.space pressed
+2018-10-15 17:50:35,636 : Key g pressed
+2018-10-15 17:50:35,828 : Key g pressed
+2018-10-15 17:50:35,964 : Key d pressed
+2018-10-15 17:50:36,100 : Key s pressed
+2018-10-15 17:50:36,252 : Key d pressed
+2018-10-15 17:50:36,372 : Key f pressed
+2018-10-15 17:50:36,516 : Key s pressed
+2018-10-15 17:50:36,876 : special key Key.space pressed
+2018-10-15 17:50:37,140 : Key d pressed
+2018-10-15 17:50:37,172 : Key s pressed
+2018-10-15 17:50:37,412 : Key f pressed
+2018-10-15 17:50:37,532 : Key s pressed
+2018-10-15 17:50:37,764 : Key v pressed
+2018-10-15 17:50:38,036 : Key v pressed
+2018-10-15 17:50:38,260 : Key b pressed
+2018-10-15 17:50:38,396 : Key r pressed
+2018-10-15 17:50:38,676 : special key Key.space pressed
+2018-10-15 17:50:38,948 : special key Key.space pressed
+2018-10-15 17:50:39,140 : Key s pressed
+2018-10-15 17:50:39,156 : Key d pressed
+2018-10-15 17:50:39,492 : Key d pressed
+2018-10-15 17:50:39,620 : Key f pressed
+2018-10-15 17:50:39,788 : special key Key.space pressed
+2018-10-15 17:50:39,796 : Key s pressed
+2018-10-15 17:50:39,964 : Key d pressed
+2018-10-15 17:50:39,980 : Key s pressed
+2018-10-15 17:50:40,116 : Key f pressed
+2018-10-15 17:50:40,396 : Key v pressed
+2018-10-15 17:50:40,604 : Key x pressed
+2018-10-15 17:50:40,620 : Key c pressed
+2018-10-15 17:50:40,748 : Key v pressed
+2018-10-15 17:50:40,916 : special key Key.space pressed
+2018-10-15 17:50:41,100 : Key w pressed
+2018-10-15 17:50:41,236 : Key e pressed
+2018-10-15 17:50:41,500 : Key f pressed
+2018-10-15 17:50:41,596 : Key w pressed
+2018-10-15 17:50:41,612 : special key Key.space pressed
+2018-10-15 17:50:42,108 : Key r pressed
+2018-10-15 17:50:42,244 : Key e pressed
+2018-10-15 17:50:42,420 : String: aaaaaaaaagbbbbbnnggrrreedffffffghhhnnvcvdfdddfvccdvdrgcdfgdbrgtefgggdsdfsdsfsvvbrsddfsdsfvxcvwefwret
+2018-10-15 17:50:42,420 : Key t pressed
+2018-10-15 17:50:42,572 : special key Key.space pressed
+2018-10-15 17:50:42,692 : Key r pressed
+2018-10-15 17:50:43,140 : Key g pressed
+2018-10-15 17:50:43,148 : Key h pressed
+2018-10-15 17:50:43,268 : Key f pressed
+2018-10-15 17:50:43,532 : Key d pressed
+2018-10-15 17:50:43,628 : Key f pressed
+2018-10-15 17:50:43,900 : Key s pressed
+2018-10-15 17:50:44,036 : Key f pressed
+2018-10-15 17:50:44,148 : special key Key.space pressed
+2018-10-15 17:50:44,316 : Key s pressed
+2018-10-15 17:50:44,364 : Key d pressed
+2018-10-15 17:50:44,572 : Key f pressed
+2018-10-15 17:50:44,659 : special key Key.space pressed
+2018-10-15 17:50:46,717 : special key Key.esc pressed
+2018-10-16 01:00:43,709 : Key c pressed
+2018-10-16 01:00:43,969 : Key c pressed
+2018-10-16 01:00:44,149 : Key c pressed
+2018-10-16 01:00:44,438 : Key c pressed
+2018-10-16 01:00:44,646 : Key c pressed
+2018-10-16 01:00:44,895 : Key c pressed
+2018-10-16 01:00:45,146 : Key c pressed
+2018-10-16 01:00:45,398 : Key x pressed
+2018-10-16 01:00:45,586 : Key x pressed
+2018-10-16 01:00:45,764 : Key x pressed
+2018-10-16 01:00:45,954 : Key x pressed
+2018-10-16 01:00:46,138 : Key x pressed
+2018-10-16 01:00:46,314 : Key x pressed
+2018-10-16 01:00:46,512 : Key c pressed
+2018-10-16 01:00:46,741 : Key c pressed
+2018-10-16 01:00:46,991 : Key v pressed
+2018-10-16 01:00:47,171 : Key v pressed
+2018-10-16 01:00:47,526 : Key b pressed
+2018-10-16 01:00:47,725 : Key b pressed
+2018-10-16 01:00:47,918 : Key b pressed
+2018-10-16 01:00:48,121 : Key b pressed
+2018-10-16 01:00:48,518 : Key b pressed
+2018-10-16 01:00:48,636 : Key d pressed
+2018-10-16 01:00:48,936 : Key v pressed
+2018-10-16 01:00:49,169 : Key s pressed
+2018-10-16 01:00:49,343 : Key d pressed
+2018-10-17 20:21:02,990 : Key m pressed
+2018-10-17 20:21:03,537 : Key m pressed
+2018-10-17 20:21:03,931 : Key m pressed
+2018-10-17 20:21:04,320 : Key m pressed
+2018-10-17 20:21:04,714 : Key m pressed
+2018-10-17 20:21:05,077 : Key m pressed
+2018-10-17 20:21:05,504 : Key m pressed
+2018-10-17 20:21:05,953 : Key m pressed
+2018-10-17 20:21:06,360 : Key m pressed
+2018-10-17 20:21:06,870 : String: mmmmmmmmmm
+2018-10-17 20:21:06,870 : special key 'm' pressed
+2018-10-17 20:21:12,077 : Key m pressed
+2018-10-17 20:21:12,476 : Key m pressed
+2018-10-17 20:21:12,657 : Key m pressed
+2018-10-17 20:21:12,807 : Key m pressed
+2018-10-17 20:21:12,948 : Key m pressed
+2018-10-17 20:21:13,099 : Key m pressed
+2018-10-17 20:21:13,267 : Key m pressed
+2018-10-17 20:21:13,405 : Key m pressed
+2018-10-17 20:21:13,565 : Key m pressed
+2018-10-17 20:21:13,715 : String: mmmmmmmmmm
+2018-10-17 20:21:13,715 : special key 'm' pressed
+2018-10-17 20:21:48,155 : special key Key.enter pressed
+2018-10-17 20:21:48,656 : Key p pressed
+2018-10-17 20:21:48,786 : Key r pressed
+2018-10-17 20:21:49,402 : Key i pressed
+2018-10-17 20:21:49,512 : Key n pressed
+2018-10-17 20:21:50,258 : Key t pressed
+2018-10-17 20:21:50,664 : special key Key.shift pressed
+2018-10-17 20:21:50,777 : Key 9 pressed
+2018-10-17 20:21:51,391 : special key Key.shift pressed
+2018-10-17 20:21:51,492 : Key ' pressed
+2018-10-17 20:21:51,678 : Key c pressed
+2018-10-17 20:21:51,868 : Key a pressed
+2018-10-17 20:21:52,032 : String: print9'cal
+2018-10-17 20:21:52,033 : special key 'l' pressed
+2018-10-17 20:21:52,192 : Key l pressed
+2018-10-17 20:21:52,306 : Key e pressed
+2018-10-17 20:21:52,458 : Key d pressed
+2018-10-17 20:21:52,656 : special key Key.shift pressed
+2018-10-17 20:21:53,018 : special key Key.ctrl_l pressed
+2018-10-17 20:21:53,130 : Key s pressed
+2018-10-17 20:21:53,654 : special key Key.ctrl_l pressed
+2018-10-17 20:21:53,749 : Key c pressed
+2018-10-17 20:21:53,950 : Key c pressed
+2018-10-17 20:21:54,103 : Key c pressed
+2018-10-17 20:21:54,262 : Key c pressed
+2018-10-17 20:21:54,425 : Key c pressed
+2018-10-17 20:21:55,844 : special key Key.ctrl_l pressed
+2018-10-17 20:21:55,954 : String: ledscccccc
+2018-10-17 20:21:55,955 : special key 'c' pressed
+2018-10-17 20:21:56,118 : Key c pressed
+2018-10-17 20:21:56,272 : Key c pressed
+2018-10-17 20:21:56,436 : Key c pressed
+2018-10-17 20:21:56,590 : Key c pressed
+2018-10-17 20:21:56,748 : Key c pressed
+2018-10-17 20:21:57,442 : special key Key.esc pressed
+2018-10-17 20:22:14,531 : Key m pressed
+2018-10-17 20:22:14,704 : Key m pressed
+2018-10-17 20:22:14,895 : Key m pressed
+2018-10-17 20:22:15,087 : Key m pressed
+2018-10-17 20:22:15,252 : Key m pressed
+2018-10-17 20:22:15,451 : Key m pressed
+2018-10-17 20:22:15,701 : Key m pressed
+2018-10-17 20:22:15,929 : Key m pressed
+2018-10-17 20:22:16,201 : Key m pressed
+2018-10-17 20:22:16,447 : String: mmmmmmmmmm
+2018-10-17 20:22:16,448 : special key 'm' pressed
+2018-10-17 20:22:16,969 : Key m pressed
+2018-10-17 20:22:17,226 : Key m pressed
+2018-10-17 20:22:17,419 : Key m pressed
+2018-10-17 20:22:17,583 : Key m pressed
+2018-10-17 20:22:17,736 : Key m pressed
+2018-10-17 20:22:17,895 : Key m pressed
+2018-10-17 20:22:18,050 : Key m pressed
+2018-10-17 20:22:18,202 : Key m pressed
+2018-10-17 20:22:18,358 : Key m pressed
+2018-10-17 20:22:18,512 : String: mmmmmmmmmm
+2018-10-17 20:22:18,514 : special key 'm' pressed
+2018-10-17 20:22:18,653 : Key m pressed
+2018-10-17 20:22:18,813 : Key m pressed
+2018-10-17 20:22:18,961 : Key m pressed
+2018-10-17 20:22:19,112 : Key m pressed
+2018-10-17 20:22:19,272 : Key m pressed
+2018-10-17 20:22:19,420 : Key m pressed
+2018-10-17 20:22:19,628 : Key m pressed
+2018-10-17 20:22:19,784 : Key m pressed
+2018-10-17 20:22:19,922 : Key m pressed
+2018-10-17 20:22:20,067 : String: mmmmmmmmmm
+2018-10-17 20:22:20,068 : special key 'm' pressed
+2018-10-17 20:22:21,696 : special key Key.esc pressed
+2018-10-17 20:23:01,471 : Key m pressed
+2018-10-17 20:23:01,668 : Key m pressed
+2018-10-17 20:23:01,864 : Key m pressed
+2018-10-17 20:23:02,064 : Key m pressed
+2018-10-17 20:23:02,273 : Key m pressed
+2018-10-17 20:23:02,476 : Key m pressed
+2018-10-17 20:23:02,686 : Key m pressed
+2018-10-17 20:23:02,905 : Key m pressed
+2018-10-17 20:23:03,124 : Key m pressed
+2018-10-17 20:23:03,396 : String: mmmmmmmmmm
+2018-10-17 20:23:03,448 : special key 'm' pressed
+2018-10-17 20:23:04,244 : Key m pressed
+2018-10-17 20:23:05,028 : Key m pressed
+2018-10-17 20:23:05,781 : Key x pressed
+2018-10-17 20:23:06,087 : Key x pressed
+2018-10-17 20:23:06,328 : Key x pressed
+2018-10-17 20:23:06,505 : Key x pressed
+2018-10-17 20:53:42,600 : Key x pressed
+2018-10-17 20:53:42,799 : Key x pressed
+2018-10-17 20:53:43,012 : Key x pressed
+2018-10-17 20:53:43,257 : Key x pressed
+2018-10-17 20:53:43,481 : Key x pressed
+2018-10-17 20:53:43,734 : Key x pressed
+2018-10-17 20:53:44,212 : Key x pressed
+2018-10-17 20:53:44,613 : Key x pressed
+2018-10-17 20:53:45,012 : Key x pressed
+2018-10-17 20:53:45,545 : String: xxxxxxxxxx
+2018-10-17 20:53:45,588 : special key 'x' pressed
+2018-10-17 20:54:18,442 : special key Key.ctrl_l pressed
+2018-10-17 20:54:18,574 : Key c pressed
+2018-10-17 20:54:18,763 : Key c pressed
+2018-10-17 20:54:18,916 : Key c pressed
+2018-10-17 20:54:19,070 : Key c pressed
+2018-10-17 20:54:19,218 : Key c pressed
+2018-10-17 20:54:19,376 : Key c pressed
+2018-10-17 20:54:20,622 : special key Key.esc pressed
+=======
+2018-10-18 16:29:40,366 : Key x pressed
+2018-10-18 16:29:40,574 : Key x pressed
+2018-10-18 16:29:40,750 : Key x pressed
+2018-10-18 16:29:40,918 : Key x pressed
+2018-10-18 16:29:41,118 : Key x pressed
+2018-10-18 16:29:41,294 : Key x pressed
+2018-10-18 16:29:41,486 : Key x pressed
+2018-10-18 16:29:41,662 : Key x pressed
+2018-10-18 16:29:41,862 : Key x pressed
+2018-10-18 16:29:42,038 : String: xxxxxxxxxx
+2018-10-18 16:29:42,054 : Key x pressed
+2018-10-18 16:29:42,438 : Key x pressed
+2018-10-18 16:29:42,750 : Key x pressed
+2018-10-18 16:29:46,837 : Key x pressed
+2018-10-18 16:29:47,013 : Key x pressed
+2018-10-18 16:29:47,197 : Key x pressed
+2018-10-18 16:29:47,373 : Key x pressed
+2018-10-18 16:29:47,558 : Key x pressed
+2018-10-18 16:29:47,733 : Key x pressed
+2018-10-18 16:29:47,918 : Key x pressed
+2018-10-18 16:29:56,925 : String: xxxxxxxxxp
+2018-10-18 16:29:56,929 : Key p pressed
+2018-10-18 16:29:57,093 : Key r pressed
+2018-10-18 16:29:57,222 : Key i pressed
+2018-10-18 16:29:57,350 : Key n pressed
+2018-10-18 16:29:57,406 : Key t pressed
+2018-10-18 16:29:57,662 : special key Key.shift pressed
+2018-10-18 16:29:57,742 : Key 9 pressed
+2018-10-18 16:29:58,286 : special key Key.right pressed
+2018-10-18 16:29:58,785 : special key Key.right pressed
+2018-10-18 16:29:58,818 : special key Key.right pressed
+2018-10-18 16:29:58,851 : special key Key.right pressed
+2018-10-18 16:29:58,884 : special key Key.right pressed
+2018-10-18 16:29:58,917 : special key Key.right pressed
+2018-10-18 16:29:58,950 : special key Key.right pressed
+2018-10-18 16:29:58,983 : special key Key.right pressed
+2018-10-18 16:29:59,016 : special key Key.right pressed
+2018-10-18 16:29:59,049 : special key Key.right pressed
+2018-10-18 16:29:59,082 : special key Key.right pressed
+2018-10-18 16:29:59,115 : special key Key.right pressed
+2018-10-18 16:29:59,148 : special key Key.right pressed
+2018-10-18 16:29:59,181 : special key Key.right pressed
+2018-10-18 16:29:59,214 : special key Key.right pressed
+2018-10-18 16:29:59,247 : special key Key.right pressed
+2018-10-18 16:29:59,280 : special key Key.right pressed
+2018-10-18 16:29:59,313 : special key Key.right pressed
+2018-10-18 16:29:59,346 : special key Key.right pressed
+2018-10-18 16:29:59,742 : special key Key.left pressed
+2018-10-18 16:29:59,918 : special key Key.left pressed
+2018-10-18 16:30:00,262 : special key Key.left pressed
+2018-10-18 16:30:00,742 : special key Key.shift pressed
+2018-10-18 16:30:00,998 : Key 0 pressed
+2018-10-18 16:30:03,934 : special key Key.esc pressed
+2018-10-18 16:30:08,101 : special key Key.esc pressed
+2018-10-18 16:30:13,525 : Key x pressed
+2018-10-18 16:30:13,693 : Key x pressed
+2018-10-18 16:30:13,861 : Key x pressed
+2018-10-18 16:30:14,037 : Key x pressed
+2018-10-18 16:30:14,213 : Key x pressed
+2018-10-18 16:30:14,373 : Key x pressed
+2018-10-18 16:30:14,541 : Key x pressed
+2018-10-18 16:30:14,710 : Key x pressed
+2018-10-18 16:30:14,886 : Key x pressed
+2018-10-18 16:30:15,054 : String: xxxxxxxxxx
+2018-10-18 16:30:15,062 : Key x pressed
+2018-10-18 16:30:15,246 : Key x pressed
+2018-10-18 16:30:16,822 : Key x pressed
+2018-10-18 16:30:49,341 : special key Key.ctrl_l pressed
+2018-10-18 16:30:49,445 : Key c pressed
+2018-10-18 16:31:20,701 : Key s pressed
+2018-10-18 16:31:20,813 : Key t pressed
+2018-10-18 16:31:20,942 : Key o pressed
+2018-10-18 16:31:21,061 : Key r pressed
+2018-10-18 16:31:21,165 : Key e pressed
+2018-10-18 16:31:21,285 : special key Key.space pressed
+2018-10-18 16:31:21,733 : Key f pressed
+2018-10-18 16:31:21,821 : String: xxcstorefi
+2018-10-18 16:31:22,821 : special key 'i' pressed
+2018-10-18 16:31:23,341 : Key i pressed
+2018-10-18 16:31:23,573 : Key l pressed
+2018-10-18 16:31:23,685 : Key e pressed
+2018-10-18 16:31:23,765 : special key Key.space pressed
+2018-10-18 16:31:26,446 : Key p pressed
+2018-10-18 16:31:26,558 : Key y pressed
+2018-10-18 16:31:26,782 : Key t pressed
+2018-10-18 16:31:26,966 : Key h pressed
+2018-10-18 16:31:27,062 : Key o pressed
+2018-10-18 16:31:27,142 : Key n pressed
+2018-10-18 16:31:27,294 : special key Key.space pressed
+2018-10-18 16:31:27,430 : String: ilepythonf
+2018-10-18 16:31:28,432 : special key 'f' pressed
+2018-10-18 16:31:28,433 : Key p pressed
+2018-10-18 16:31:29,270 : special key Key.down pressed
+2018-10-18 16:31:30,773 : special key Key.down pressed
+2018-10-18 16:31:31,054 : special key Key.enter pressed
+2018-10-18 16:31:57,678 : special key Key.cmd pressed
+2018-10-18 16:31:57,853 : special key Key.left pressed
+2018-10-18 16:32:03,062 : special key Key.cmd pressed
+2018-10-18 16:32:03,374 : special key Key.right pressed
+2018-10-18 16:32:07,462 : special key Key.enter pressed
+2018-10-18 16:32:10,629 : Key w pressed
+2018-10-18 16:32:10,733 : Key i pressed
+2018-10-18 16:32:10,845 : Key t pressed
+2018-10-18 16:32:10,997 : Key h pressed
+2018-10-18 16:32:11,005 : Key j pressed
+2018-10-18 16:32:11,069 : special key Key.space pressed
+2018-10-18 16:32:11,485 : special key Key.backspace pressed
+2018-10-18 16:32:11,669 : special key Key.backspace pressed
+2018-10-18 16:32:11,781 : special key Key.space pressed
+2018-10-18 16:32:11,917 : Key o pressed
+2018-10-18 16:32:12,085 : Key p pressed
+2018-10-18 16:32:12,965 : special key Key.ctrl_l pressed
+2018-10-18 16:32:13,085 : Key c pressed
+2018-10-18 16:32:14,293 : special key Key.esc pressed
+2018-10-18 16:33:43,357 : Key x pressed
+2018-10-18 16:33:43,557 : Key x pressed
+2018-10-18 16:33:43,749 : Key x pressed
+2018-10-18 16:33:43,925 : Key x pressed
+2018-10-18 16:33:44,117 : Key x pressed
+2018-10-18 16:33:44,309 : Key x pressed
+2018-10-18 16:33:44,526 : Key x pressed
+2018-10-18 16:33:44,718 : Key x pressed
+2018-10-18 16:33:44,942 : Key x pressed
+2018-10-18 16:33:45,158 : String: xxxxxxxxxx
+2018-10-18 16:33:45,185 : special key 'x' pressed
+2018-10-18 16:34:13,821 : special key Key.shift pressed
+2018-10-18 16:34:14,221 : Key - pressed
+2018-10-18 16:34:14,397 : Key s pressed
+2018-10-18 16:34:14,589 : Key e pressed
+2018-10-18 16:34:14,709 : Key r pressed
+2018-10-18 16:34:15,093 : special key Key.enter pressed
+2018-10-18 16:34:15,525 : special key Key.ctrl_l pressed
+2018-10-18 16:34:15,629 : Key s pressed
+2018-10-18 16:36:03,869 : Key f pressed
+2018-10-18 16:36:04,149 : Key t pressed
+2018-10-18 16:36:04,526 : Key p pressed
+2018-10-18 16:36:04,654 : special key Key.space pressed
+2018-10-18 16:36:04,838 : Key l pressed
+2018-10-18 16:36:05,134 : special key Key.backspace pressed
+2018-10-18 16:36:05,334 : special key Key.backspace pressed
+2018-10-18 16:36:05,414 : String: -sersftpll
+2018-10-18 16:36:06,414 : special key 'l' pressed
+2018-10-18 16:36:06,414 : Key b pressed
+2018-10-18 16:36:06,414 : special key Key.space pressed
+2018-10-18 16:36:06,758 : special key Key.space pressed
+2018-10-18 16:36:07,142 : special key Key.backspace pressed
+2018-10-18 16:36:07,254 : Key c pressed
+2018-10-18 16:36:07,518 : Key r pressed
+2018-10-18 16:36:07,622 : Key e pressed
+2018-10-18 16:36:07,838 : Key a pressed
+2018-10-18 16:36:08,294 : Key t pressed
+2018-10-18 16:36:08,406 : Key e pressed
+2018-10-18 16:36:08,542 : special key Key.space pressed
+2018-10-18 16:36:08,702 : Key f pressed
+2018-10-18 16:36:08,822 : Key i pressed
+2018-10-18 16:36:09,046 : String: bcreatefil
+2018-10-18 16:36:10,047 : special key 'l' pressed
+2018-10-18 16:36:10,047 : special key Key.enter pressed
+2018-10-18 16:36:30,678 : special key Key.esc pressed
+2018-10-18 16:41:48,854 : special key Key.ctrl_l pressed
+2018-10-18 16:41:49,030 : Key c pressed
+2018-10-18 16:41:49,382 : special key Key.up pressed
+2018-10-18 16:41:50,678 : special key Key.enter pressed
+2018-10-18 16:41:54,230 : Key x pressed
+2018-10-18 16:41:54,494 : Key x pressed
+2018-10-18 16:41:54,790 : Key x pressed
+2018-10-18 16:41:55,022 : Key x pressed
+2018-10-18 16:41:55,238 : Key x pressed
+2018-10-18 16:41:55,462 : Key x pressed
+2018-10-18 16:41:55,742 : Key x pressed
+2018-10-18 16:41:56,190 : Key x pressed
+2018-10-18 16:41:56,854 : String: cxxxxxxxxx
+2018-10-18 16:41:56,882 : special key 'x' pressed
+2018-10-18 16:41:59,782 : Key x pressed
+2018-10-18 16:42:00,030 : Key x pressed
+2018-10-18 16:42:00,254 : Key x pressed
+2018-10-18 16:42:00,454 : Key x pressed
+2018-10-18 16:42:00,710 : special key Key.ctrl_l pressed
+2018-10-18 16:42:00,870 : Key c pressed
+2018-10-18 16:42:01,894 : special key Key.ctrl_l pressed
+2018-10-18 16:42:01,998 : Key c pressed
+2018-10-18 16:42:02,614 : special key Key.esc pressed
+2018-10-18 16:43:01,422 : Key x pressed
+2018-10-18 16:43:01,614 : Key x pressed
+2018-10-18 16:43:01,806 : Key x pressed
+2018-10-18 16:43:01,998 : Key x pressed
+2018-10-18 16:43:02,190 : Key x pressed
+2018-10-18 16:43:02,406 : Key x pressed
+2018-10-18 16:43:02,686 : Key x pressed
+2018-10-18 16:43:02,933 : Key x pressed
+2018-10-18 16:43:03,253 : Key x pressed
+2018-10-18 16:43:03,573 : String: xxxxxxxxxx
+2018-10-18 16:43:03,605 : special key 'x' pressed
+2018-10-18 16:43:20,614 : special key Key.delete pressed
+2018-10-18 16:43:20,790 : special key Key.delete pressed
+2018-10-18 16:43:20,933 : special key Key.delete pressed
+2018-10-18 16:43:21,054 : special key Key.delete pressed
+2018-10-18 16:43:21,198 : special key Key.delete pressed
+2018-10-18 16:43:21,926 : Key k pressed
+2018-10-18 16:43:22,102 : Key e pressed
+2018-10-18 16:43:22,247 : Key y pressed
+2018-10-18 16:43:22,446 : Key l pressed
+2018-10-18 16:43:22,646 : Key o pressed
+2018-10-18 16:43:22,758 : Key g pressed
+2018-10-18 16:43:22,918 : Key . pressed
+2018-10-18 16:43:23,230 : Key l pressed
+2018-10-18 16:43:23,382 : Key o pressed
+2018-10-18 16:43:23,470 : String: keylog.log
+2018-10-18 16:43:24,471 : special key 'g' pressed
+2018-10-18 16:43:29,966 : special key Key.ctrl_l pressed
+2018-10-18 16:43:30,110 : Key c pressed
+2018-10-18 16:43:30,318 : Key c pressed
+2018-10-18 16:43:30,694 : special key Key.up pressed
+2018-10-18 16:43:31,166 : special key Key.enter pressed
+2018-10-18 16:43:33,702 : special key Key.up pressed
+2018-10-18 16:43:34,310 : special key Key.ctrl_l pressed
+2018-10-18 16:43:34,358 : Key c pressed
+2018-10-18 16:43:34,574 : Key c pressed
+2018-10-18 16:43:34,726 : Key c pressed
+2018-10-18 16:43:34,886 : Key c pressed
+2018-10-18 16:43:35,286 : special key Key.esc pressed
+2018-10-18 16:43:42,094 : Key x pressed
+2018-10-18 16:43:42,342 : Key x pressed
+2018-10-18 16:43:42,654 : Key x pressed
+2018-10-18 16:43:42,990 : Key x pressed
+2018-10-18 16:43:43,398 : Key x pressed
+2018-10-18 16:43:43,870 : Key x pressed
+2018-10-18 16:43:44,230 : Key x pressed
+2018-10-18 16:43:44,550 : Key x pressed
+2018-10-18 16:43:44,854 : Key x pressed
+2018-10-18 16:43:45,166 : String: xxxxxxxxxx
+2018-10-18 16:43:45,198 : special key 'x' pressed
+2018-10-18 16:51:01,719 : special key Key.esc pressed
+2018-10-18 16:56:04,839 : Key x pressed
+2018-10-18 16:56:05,286 : String: xx
+2018-10-18 16:56:05,301 : special key 'x' pressed
+2018-10-18 16:56:06,094 : Key x pressed
+2018-10-18 16:56:06,718 : String: xx
+2018-10-18 16:56:06,722 : special key 'x' pressed
+2018-10-18 16:58:12,334 : Key l pressed
+2018-10-18 16:58:12,382 : String: lo
+2018-10-18 16:58:12,386 : special key 'o' pressed
+2018-10-18 16:58:12,518 : Key g pressed
+2018-10-18 16:58:13,071 : special key Key.right pressed
+2018-10-18 16:58:13,279 : special key Key.right pressed
+2018-10-18 16:58:14,047 : special key Key.delete pressed
+2018-10-18 16:58:14,095 : special key Key.shift pressed
+2018-10-18 16:58:14,183 : String: gr
+2018-10-18 16:58:14,187 : special key 'r' pressed
+2018-10-18 16:58:15,263 : special key Key.ctrl_l pressed
+2018-10-18 16:58:15,391 : Key s pressed
+2018-10-18 16:58:16,487 : special key Key.ctrl_l pressed
+2018-10-18 16:58:16,559 : String: sc
+2018-10-18 16:58:16,562 : special key 'c' pressed
+2018-10-18 16:58:17,063 : Key c pressed
+2018-10-18 16:58:17,287 : String: cc
+2018-10-18 16:58:18,287 : special key 'c' pressed
+2018-10-18 16:58:20,655 : special key Key.esc pressed
+2018-10-18 16:58:35,871 : Key x pressed
+2018-10-18 16:58:36,095 : String: xx
+2018-10-18 16:58:36,111 : special key 'x' pressed
+2018-10-18 16:58:41,510 : special key Key.ctrl_l pressed
+2018-10-18 16:58:41,662 : Key c pressed
+2018-10-18 16:58:41,958 : String: cc
+2018-10-18 16:58:42,959 : special key 'c' pressed
+2018-10-18 16:58:47,630 : Key c pressed
+2018-10-18 16:58:48,303 : String: cl
+2018-10-18 16:58:49,304 : special key 'l' pressed
+2018-10-18 16:58:49,305 : Key r pressed
+2018-10-18 16:58:49,305 : special key Key.enter pressed
+2018-10-18 16:58:52,975 : special key Key.esc pressed
+2018-10-18 16:59:30,135 : Key x pressed
+2018-10-18 16:59:30,671 : String: xx
+2018-10-18 16:59:30,699 : special key 'x' pressed
+2018-10-18 16:59:52,710 : special key Key.ctrl_l pressed
+2018-10-18 16:59:52,839 : Key c pressed
+2018-10-18 17:00:00,943 : String: cf
+2018-10-18 17:00:01,943 : special key 'f' pressed
+2018-10-18 17:00:01,944 : special key Key.space pressed
+2018-10-18 17:00:01,944 : Key g pressed
+2018-10-18 17:00:01,945 : String: ge
+2018-10-18 17:00:02,945 : special key 'e' pressed
+2018-10-18 17:00:02,945 : special key Key.space pressed
+2018-10-18 17:00:03,111 : Key c pressed
+2018-10-18 17:00:03,271 : String: cu
+2018-10-18 17:00:04,271 : special key 'u' pressed
+2018-10-18 17:00:04,607 : special key Key.enter pressed
+2018-10-18 17:00:34,983 : special key Key.shift pressed
+2018-10-18 17:00:35,231 : Key - pressed
+2018-10-18 17:00:35,375 : String: --
+2018-10-18 17:00:36,376 : special key '-' pressed
+2018-10-18 17:00:36,863 : Key r pressed
+2018-10-18 17:00:36,879 : String: ri
+2018-10-18 17:00:37,880 : special key 'i' pressed
+2018-10-18 17:00:37,881 : special key Key.backspace pressed
+2018-10-18 17:00:37,881 : special key Key.backspace pressed
+2018-10-18 17:00:38,639 : Key d pressed
+2018-10-18 17:00:38,783 : String: di
+2018-10-18 17:00:39,784 : special key 'i' pressed
+2018-10-18 17:00:39,879 : Key n pressed
+2018-10-18 17:00:40,143 : String: na
+2018-10-18 17:00:41,144 : special key 'a' pressed
+2018-10-18 17:00:41,144 : Key e pressed
+2018-10-18 17:00:46,519 : special key Key.esc pressed
+2018-10-18 17:01:33,583 : Key x pressed
+2018-10-18 17:01:34,087 : String: xx
+2018-10-18 17:01:34,115 : special key 'x' pressed
+2018-10-18 17:02:10,023 : Key f pressed
+2018-10-18 17:02:10,239 : String: ft
+2018-10-18 17:02:10,252 : special key 't' pressed
+2018-10-18 17:02:10,375 : Key p pressed
+2018-10-18 17:02:10,583 : String: p-
+2018-10-18 17:02:10,596 : special key '-' pressed
+2018-10-18 17:02:10,775 : Key s pressed
+2018-10-18 17:02:11,423 : String: sr
+2018-10-18 17:02:11,437 : special key 'r' pressed
+2018-10-18 17:02:11,719 : Key v pressed
+2018-10-18 17:02:11,902 : special key Key.space pressed
+2018-10-18 17:02:12,550 : String: vn
+2018-10-18 17:02:12,563 : special key 'n' pressed
+2018-10-18 17:02:12,686 : Key o pressed
+2018-10-18 17:02:13,927 : String: od
+2018-10-18 17:02:13,938 : special key 'd' pressed
+2018-10-18 17:02:14,030 : Key e pressed
+2018-10-18 17:02:14,167 : special key Key.space pressed
+2018-10-18 17:02:14,767 : String: es
+2018-10-18 17:02:14,778 : special key 's' pressed
+2018-10-18 17:02:14,895 : Key o pressed
+2018-10-18 17:02:15,014 : String: oc
+2018-10-18 17:02:15,026 : special key 'c' pressed
+2018-10-18 17:02:15,159 : Key k pressed
+2018-10-18 17:02:15,303 : String: ke
+2018-10-18 17:02:15,317 : special key 'e' pressed
+2018-10-18 17:02:15,470 : Key t pressed
+2018-10-18 17:02:15,598 : special key Key.space pressed
+2018-10-18 17:02:15,727 : String: tn
+2018-10-18 17:02:15,738 : special key 'n' pressed
+2018-10-18 17:02:15,870 : Key o pressed
+2018-10-18 17:02:15,951 : String: ot
+2018-10-18 17:02:15,964 : special key 't' pressed
+2018-10-18 17:02:16,038 : special key Key.space pressed
+2018-10-18 17:02:16,271 : Key w pressed
+2018-10-18 17:02:16,454 : String: wr
+2018-10-18 17:02:16,465 : special key 'r' pressed
+2018-10-18 17:02:16,678 : Key i pressed
+2018-10-18 17:02:16,790 : String: it
+2018-10-18 17:02:16,803 : special key 't' pressed
+2018-10-18 17:02:17,182 : Key a pressed
+2018-10-18 17:02:17,358 : String: ab
+2018-10-18 17:02:17,369 : special key 'b' pressed
+2018-10-18 17:02:17,454 : Key l pressed
+2018-10-18 17:02:17,550 : String: le
+2018-10-18 17:02:17,562 : special key 'e' pressed
+2018-10-18 17:02:17,631 : special key Key.enter pressed
+2018-10-18 17:04:11,839 : special key Key.delete pressed
+2018-10-18 17:05:05,527 : special key Key.backspace pressed
+2018-10-18 17:05:05,951 : special key Key.enter pressed
+>>>>>>> bbbd5019478091e6da770a980da66f6b0d87363f
+2018-10-23 17:52:12,471 : Key x pressed
+2018-10-23 17:52:13,567 : String: xx
+2018-10-23 17:52:13,628 : special key 'x' pressed
+2018-10-23 17:53:23,430 : Key f pressed
+2018-10-23 17:53:23,622 : String: ft
+2018-10-23 17:53:45,276 : special key 't' pressed
+2018-10-23 17:53:45,276 : Key c pressed
+2018-10-23 17:53:45,276 : String: cc
+2018-10-23 17:53:45,307 : special key 'c' pressed
+2018-10-23 17:53:45,307 : Key c pressed
+2018-10-23 17:53:45,432 : String: cc
+2018-10-23 17:53:46,447 : special key 'c' pressed
+2018-10-23 17:53:46,759 : special key Key.ctrl_l pressed
+2018-10-23 17:53:46,946 : Key c pressed
+2018-10-23 17:53:47,164 : String: cc
+2018-10-23 17:53:48,194 : special key 'c' pressed
+2018-10-23 17:53:50,192 : special key Key.esc pressed
+>>>>>>> 312e1575b72218fb761b95a8026bb5fbc14c43a3
+2018-10-24 00:43:24,831 : special key Key.up pressed
+2018-10-24 00:43:25,416 : special key Key.enter pressed
+2018-10-24 00:43:28,940 : Key z pressed
+2018-10-24 00:43:29,774 : String: zz
+2018-10-24 00:43:29,832 : Key z pressed
+2018-10-24 00:43:33,211 : Key z pressed
+2018-10-24 00:43:33,757 : String: zz
