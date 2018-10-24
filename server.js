@@ -1,12 +1,12 @@
 const FtpSrv = require('ftp-srv');
-const ftpServer = new FtpSrv('ftp://127.0.0.1:5555', {});
+const ftpServer = new FtpSrv('ftp://127.0.0.1:55555', {});
 
 ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
     console.log("Login from: " + connection.ip);
     console.log("Username:" + username);
     if(username == 'root' && password == 'root'){
         console.log("Resolving");
-        resolve({root: __dirname, cwd : '/ftpserver/root/'});
+        resolve({ root: __dirname, cwd : '/ftpserver/root/'});
     } else {
         reject("Connection Refused");
     }
