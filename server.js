@@ -1,12 +1,15 @@
 const FtpSrv = require('ftp-srv');
 const ftpServer = new FtpSrv('ftp://127.0.0.1:55555', {});
+const fs = require('fs');
+const pathExists = require('path-exists');
+var dirPath = '/ftpserver/root/';
 
 ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
     console.log("Login from: " + connection.ip);
     console.log("Username:" + username);
     if(username == 'root' && password == 'root'){
         console.log("Resolving");
-        resolve({ root: __dirname, cwd : '/ftpserver/root/'});
+        resolve({ root: __dirname, cwd : dirPath});
     } else {
         reject("Connection Refused");
     }
@@ -27,4 +30,19 @@ ftpServer.on('STOR', (error, filename) => {
 });
 
 ftpServer.listen()
-.then(() => {});
+.then(() => {
+    pathExists(__dirname + '/ftpserver/root/').then(exists => {
+        console.log(exists);
+        if(!exists) {
+            fs.mkdirSync('./ftpserver/', (err) => {
+                if(err) throw err;
+            });
+            fs.mkdirSync('./ftpserver/root/', (err) => {
+                if(err) throw err;
+            });
+        }
+        else {
+            console.log("/ftpserver/ exists");
+        }
+    });
+});
