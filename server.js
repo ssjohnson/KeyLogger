@@ -29,20 +29,26 @@ ftpServer.on('STOR', (error, filename) => {
     }
 });
 
-ftpServer.listen()
-.then(() => {
-    pathExists(__dirname + '/ftpserver/root/').then(exists => {
+ftpServer.listen().then(() => {
+    pathExists('./ftpserver/').then(exists => {
         console.log(exists);
-        if(!exists) {
+        if(exists) {
+            pathExists('./ftpserver/root').then(exists => {
+                if(exists) console.log("File Directories Exist");
+                else {
+                    fs.mkdirSync('./ftpserver/root/', (err) => {
+                        if(err) throw err;
+                    });
+                }
+            });
+        }
+        else {
             fs.mkdirSync('./ftpserver/', (err) => {
                 if(err) throw err;
             });
             fs.mkdirSync('./ftpserver/root/', (err) => {
                 if(err) throw err;
             });
-        }
-        else {
-            console.log("/ftpserver/ exists");
         }
     });
 });
